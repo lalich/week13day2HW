@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.Movies {
+  border-image: fill;
+  color: rgb(26, 188, 61);
+  background-color: rgb(21, 20, 18);
+  
+  
+}
+
+.h1{
+  font-size: xx-large;
+  color:rgb(98, 23, 108);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.background_image {
+   background-image: url('https://3.bp.blogspot.com/-tRH4a36gEOc/VlJcXFoY9bI/AAAAAAAAADo/fRu2BNRW7W4/s1600/Film%2BReel.jpg');
+  background-size: auto;
+  background-repeat: repeat;
+}
